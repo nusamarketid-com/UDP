@@ -1,0 +1,8 @@
+{
+    "name": "Utama Repository",
+    "description": "AllWorld Plugin Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://gitdab.com/recloudstream/cloudstream-extensions-hexated/raw/branch/builds/plugins.json"
+    ]
+}
